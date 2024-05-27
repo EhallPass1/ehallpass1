@@ -118,7 +118,7 @@
                 </ul>
             </li>
         </ol>
-        <p><strong>Conclusion:</strong> In the kaleidoscope of eHallPass colors, each hue tells a story, guiding students and administrators through the intricate tapestry of school management. By understanding the meaning behind these colors, schools can unlock the full potential of eHallPass, fostering a seamless and efficient learning environment where every shade serves a purpose.</p>
+        <p><strong>Conclusion:</strong> In the kaleidoscope of eHallPass colors, each hue tells a story, guiding students and administrators through the intricate tapestry of school management. By understanding the meaning behind these colors, schools can unlock the full potential of eHallPass, fostering a seamless and efficient learning environment where every shade serves a purpose. Also, there is a great role of <a href="https://ehallpass-beda1.web.app/">ehallpass in managing bathroom breaks</a>  and it has great importance in school administrators. </p>
     </div>
 </body>
 </html>
